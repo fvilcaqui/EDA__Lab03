@@ -63,7 +63,7 @@
    Encuentre la altura máxima posible de las pilas de modo que todas las pilas tengan exactamente la misma altura.
    Esto significa que debe eliminar cero o más cilindros de la parte superior de cero o más de las tres pilas hasta que tengan la misma altura y luego devolver la        altura.
    
-   #Resolucion: 
+   Resolucion: 
      En este ejercicio lo que decidi fue primero implementar 3 array con los valores que iran en las pilas y ala vez que decidi crear sus respectivas pilas.
       
         int[] cantidad1 = {1,1,1,2,3};
@@ -115,15 +115,19 @@
 		}
 	}
     
-    # Resultados:
     
+   Resultados:
+   
+   ![image](https://user-images.githubusercontent.com/87882802/171968269-5730dc0b-5c03-41f6-841c-98a9fe52a6a6.png)
 
    EJERCICIO 2:
    Implementa una pila usando POO con tipos genéricos siguiendo los estándares de Java (los métodos para una pila) verifique:
    
-   #Resolucion: 
-     Primero creamos la pila y le damos sus respectivos valores:
+    * Importante: Para poder utilizar las pilas la clase Stack necesitamos (java.util.AbstractList<E>)
      
+     Resolucion: 
+     
+	Primero creamos la pila y le damos sus respectivos valores:
      Stack pila = new Stack();
 		pila.push(50);
 		pila.push(23);
@@ -146,12 +150,18 @@
 			System.out.println(pila.pop());
 		}   
         
-        #Resultados:
+        
+    Resultados:
 	
-
-   
-   EJERCICIO 3:
+   ![image](https://user-images.githubusercontent.com/87882802/171968311-fcbff6bb-1136-42c7-8af6-69aa3af1a0c3.png)
+  
+  EJERCICIO 3:
    Implementa una cola usando POO con tipos genéricos siguiendo los estándares de Java (los métodos para una cola) verifique:
+	
+	* Importante: Para poder utilizar las pilas la clase Queue necesitamos (java.util.InterfaceQueue<E>)
+	
+	Resolucion:
+
         //Ingresamos los valores de la cola
 		for(int i=1; i<8; i++) {
 			//Este metodo inserta un elemento a la cola con el metodo "offer"
@@ -172,12 +182,10 @@
 			System.out.println(cola.poll());
 			//La diferencia entre el metodo "remove" y "poll" es que cuando esta vacio el metodo poll da null
 		}
-        
-        #Resultados:
-	
-	
-
-
+       
+ Resultados:
+				  
+![image](https://user-images.githubusercontent.com/87882802/171968341-b1e02668-d07a-4ce3-b576-a0e51a54a5d9.png)
 
 ## II. SOLUCION DEL CUESTIONARIO
 
