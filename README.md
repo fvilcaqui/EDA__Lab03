@@ -116,6 +116,7 @@
 	}
     
     # Resultados:
+    
     ![image](https://user-images.githubusercontent.com/87882802/171967618-77c4f489-b1c3-47e8-97ba-c33db325f407.png)
 
    EJERCICIO 2:
@@ -147,6 +148,7 @@
 		}   
         
         #Resultados:
+	
         ![image](https://user-images.githubusercontent.com/87882802/171968011-98700c84-c057-4f5c-8b8e-0136bf4e0fc7.png)
 
    
@@ -174,6 +176,7 @@
 		}
         
         #Resultados:
+	
         ![image](https://user-images.githubusercontent.com/87882802/171967997-1be79f2a-074b-4296-a9f1-5157d09a68de.png)
 
 
@@ -183,10 +186,10 @@
 ¿Qué similitudes hay entre una Lista Enlazada y una Pila?
 
   - En ambos casos se pueden llenar los valores con distintos tipos de variables, de manera
-    secuencial y donde el limite vendria a ser el espacio de tu dispositivo.
+    secuencial y donde el limite vendría a ser el espacio de tu dispositivo.
     
 ¿En que casos seria favorable/desfavorable utilizar Pila/Cola?
-   - El uso de esos metodos nos ayudaria sobretodo cuando vayamos a trabajar con datos ordenados,
+   - El uso de esos métodos nos ayudaría sobre todo cuando vayamos a trabajar con datos ordenados,
      donde estrictamente es necesario usar a partir de los extremos, ya que no podemos utilizar los 
      datos que se encuentran el medio.
    - Individualmente para su uso la pila es mejor usar cuando el paradigma es In-First-Out(LIFO) y 
