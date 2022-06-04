@@ -117,7 +117,6 @@
     
     # Resultados:
     
-    ![image](https://user-images.githubusercontent.com/87882802/171967618-77c4f489-b1c3-47e8-97ba-c33db325f407.png)
 
    EJERCICIO 2:
    Implementa una pila usando POO con tipos genéricos siguiendo los estándares de Java (los métodos para una pila) verifique:
@@ -149,7 +148,6 @@
         
         #Resultados:
 	
-        ![image](https://user-images.githubusercontent.com/87882802/171968011-98700c84-c057-4f5c-8b8e-0136bf4e0fc7.png)
 
    
    EJERCICIO 3:
@@ -177,7 +175,7 @@
         
         #Resultados:
 	
-        ![image](https://user-images.githubusercontent.com/87882802/171967997-1be79f2a-074b-4296-a9f1-5157d09a68de.png)
+	
 
 
 
